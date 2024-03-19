@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Hemant Thanna, a software developer based in Bangalore, India, with a passion for building applications in Flutter and Go.
+I'm Hemant Thanna, your friendly neighborhood software developer based in Bangalore, India, with a passion for building applications in Flutter and Go.
 
 ## 🌱 About Me
 
